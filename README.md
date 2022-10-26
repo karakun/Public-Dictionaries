@@ -1,6 +1,6 @@
 # Public Dictionaries
 In this repositories we publish adapted dictionaries and artifacts resulting from our use of data protected by licenses requiring further publications.
-The kind of license is specified within each subdirectory representing the each single data source.
+The kind of license is specified within the subdirectory representing each single data source.
    
 #### Contact
     Karakun AG
