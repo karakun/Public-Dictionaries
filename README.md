@@ -1,8 +1,15 @@
-# Public-Dictionaries
+# Public Dictionaries
 In this repositories we publish adapted dictionaries and artifacts resulting from our use of data protected by licenses requiring further publications.
 The kind of license is specified within each subdirectory representing the each single data source.
+   
+#### Contact
+    Karakun AG
+    Elisabethenanlage 25
+    4051 BASEL, Switzerland
+    
+    email: hibu_at_karakun.com
 
-## Current data sources:
+## Current published data sources
 
 ### Wiktionary (CC-BY-SA)
   
